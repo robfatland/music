@@ -1,14 +1,18 @@
 # Cubase
 
 
-The only real difficulty with using a DAW is the evaporated years of one's life: sorting out pathologies.
-
+- I start new Cubase projects from my standard template. This has a notepad plain text file built in with some 
+notes; so the master is in this folder as `TemplateNotepad.md`.
+- For more involved notes I'll create other material in this Cubase subfolder
+- The rest of this file as of Dec 2024 is miscellany
+  
 
 ## Terms 
 
 
 - CC is Continuous Controller for MIDI and it means something like a pitch bend wheel that can emit a string of modifiers.
-- LUFS is Loudness, K-weighted, relative to full scale (LKFS) or Loudness Units ditto
+- Two loudness acronyms: Loudness, K-weighted, relative to full scale (LKFS) or Loudness Units (LUFS)
+
 
 ## Pre or Post Fader?
 
@@ -153,6 +157,7 @@ This is painful because it feels slow.
 - > MIDI > Functions
     - Explore!
 - Look into the Key Quantizer: Contrains MIDI notes to lie within some key; drag up and down to restructure harmony
+
 
 ## Drums
 
