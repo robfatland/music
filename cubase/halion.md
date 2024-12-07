@@ -1,4 +1,20 @@
-# Halion sample editor
+# Halion
+
+
+Probably the main thing to remember is that there is good material out there; but the content providers
+usually bury the lead so it helps to jump into the middle of a video to see where they are headed.
+
+
+## YouTube resources
+
+- [One Man And His Songs](https://www.youtube.com/@OneManAndHisSongs) Antony is the person for methodical, thorough, relatable Cubase and Halion skills
+    - [Halion 7 series](https://www.youtube.com/watch?v=3FXFOoMp6Jw&list=PL3P42Av427hwDrDjdiGnIdA_qAiWJDrkI)
+- [Dom](https://www.youtube.com/@DomSigalas) our guy
+- [MartynHeyne](https://www.youtube.com/@martynheynemusic) is a pro producer with excellent art of production content 
+- [VST Instruments and Plug-Ins](https://www.youtube.com/@VSTInstrumentsPlugIns) includes Dom Sigalas, seems current, lots of content many topics
+- [Steinberg](https://www.youtube.com/@steinberg)
+- [MusicRadar Tech](https://www.youtube.com/@MusicRadarTech)
+- [ADSR Pro](https://www.youtube.com/@MikeSmithADSRPro) is antiquated content still relevant: synth sound building; check out vocal chopping
 
 
 [YouTube One Man And His Songs video](https://youtu.be/AJJIldGPX7o?si=AfolDtTUFjlRS59E)
