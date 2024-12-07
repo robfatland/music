@@ -17,6 +17,8 @@ notes; so the master is in this folder as `TemplateNotepad.md`.
 - [Steinberg](https://www.youtube.com/@steinberg)
 - [MusicRadar Tech](https://www.youtube.com/@MusicRadarTech)
 - [ADSR Pro](https://www.youtube.com/@MikeSmithADSRPro) is antiquated content still relevant: synth sound building; check out vocal chopping
+- [Born To Produce](https://www.youtube.com/@Borntoproduce)
+- [Chris Selim Mixdown Online](https://www.youtube.com/@mixdownonline)
 
 
 ## Terms 
