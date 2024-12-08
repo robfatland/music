@@ -13,6 +13,8 @@ finding it in Edit > Key Commands? Maybe check Transport.
 - Grid type: Adapt to zoom
 - Multi-track selection: Hold shift + ctrl + range selection tool drag
 - Loop on range selection: alt-p (event select or range selection tool)
+
+
 ## [Dom Sigalas workflow shortcuts](https://www.youtube.com/watch?v=C67OjuSL90U)
 
 - Chopping to quantize value: Scissors > Alt + Click
@@ -55,3 +57,8 @@ finding it in Edit > Key Commands? Maybe check Transport.
     - Let's do this on the full project: The select process is shift + control + range select; then shift + backspace
 - Create my own VST Instrument list
     - Studio > VST Plugin Manager
+- Mixer fader items
+    - Faders up to 12dB: Project > Set up > Fader max
+    - Fader micro moves: Hold down shift: Now fader moves are very small
+- Modify channel color: shift + click on the track label; also works in the mix console
+- Mixer EQ graphic interactive: click on the thumbnail
