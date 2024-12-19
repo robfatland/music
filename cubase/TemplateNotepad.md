@@ -5,7 +5,26 @@ To Do
 - Time stretch applied to reference track procedure is on github; should have a version here
 - Review gain staging
 - Describe how this template is configured
+- Clave rhythm: 2 meas: "Yucatan": Either order
+    - Measure A: Clave on 2 and 3
+    - Measure B: Clave on 1, 2&, 3&
+
+
+Updates needed for template
+===========================
+- Instructions on recording an external track, particularly the Interface Control app settings
+- Time stretch applied to reference track procedure is on github; should have a version in this file
+- Review gain staging
+- Describe how this template is configured
 - Describe clave rhythm
+- Workflow accelerators
+
+
+Mods to Template
+================
+- Mixer: Hide any remaining FX, double check linked VCA faders, name them
+- Mixer: Easy access to various top panel features (Inserts, Sends, EQ)
+
 
 Importing existing audio
 ========================
