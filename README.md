@@ -58,13 +58,14 @@ organized vaguely by genre; with sometimes notes on lessons
 - [Yes](https://www.youtube.com/watch?v=2mTPwM4nFw0&list=PLBxAzSicPZqRJ4xAzNrBB9tJ5S27ejHpt&index=14&pp=gAQBiAQB8AUB)
 
 
-### Afro-Cuban, Latin, Andalusian...
+### Afro-Cuban, Latin, Flamenco/Andalusian...
 
 
 - Boutella cf Latin dance
 - Newen Afro Beat / Opposite People
 - [K'naan Warsame](https://www.youtube.com/watch?v=rbRSYYPSjWc&list=PLBxAzSicPZqQ_IMHnPTyS1mcQV-EI2fgL&index=5&pp=gAQBiAQB8AUB)
 - [La Cigarra](https://www.youtube.com/watch?v=tIiskhpdRAM&list=PLBxAzSicPZqTuiYBTZFtRJ20OX4XQMYGX&index=1&pp=gAQBiAQB8AUB)
+- [The Mystery At The Heart Of Flamenco (David Bruce)](https://www.youtube.com/watch?v=XYgTkW4WK80&list=PLBxAzSicPZqS9i9lS227_-uwm4loGPfaR&index=7&t=226s&pp=gAQBiAQB)
 
 
 ### Reggae
