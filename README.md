@@ -19,7 +19,7 @@ organized vaguely by genre; with sometimes notes on lessons
 - General Echo / Arleen
 - [Lage](https://www.youtube.com/watch?v=8a3qAp81vY8&list=PLBxAzSicPZqT3VMoyfRZ4Se4qwzmZ-2qi&index=11&pp=gAQBiAQB8AUB)
 - [Dunno](https://www.youtube.com/watch?v=jCjaUwEsMdQ&list=PLBxAzSicPZqR0EvK6tyBXZKWrSZUZdMq9&index=4&pp=gAQBiAQB8AUB)
-- [Dunno](https://www.youtube.com/watch?v=gITMtMwkoJk&list=PLBxAzSicPZqTuiYBTZFtRJ20OX4XQMYGX&index=7&pp=gAQBiAQB8AUB)
+- [This live recording kicks your ass](https://www.youtube.com/watch?v=gITMtMwkoJk&list=PLBxAzSicPZqTuiYBTZFtRJ20OX4XQMYGX&index=7&pp=gAQBiAQB8AUB)
 - [steal this solo](https://www.youtube.com/shorts/ZUszTqj57bI?feature=share)
 
 
