@@ -1,6 +1,12 @@
 **[some songs](https://github.com/robfatland/music/tree/main/tunes)**
 
 
+## do this
+
+
+[walking bass](https://www.youtube.com/watch?v=Ojb1xPp68hg)
+
+
 ## relocate this link
 
 
@@ -16,7 +22,6 @@ organized vaguely by genre; with sometimes notes on lessons
 ### to be sorted
 
 
-- General Echo / Arleen
 - [Lage](https://www.youtube.com/watch?v=8a3qAp81vY8&list=PLBxAzSicPZqT3VMoyfRZ4Se4qwzmZ-2qi&index=11&pp=gAQBiAQB8AUB)
 - [Dunno](https://www.youtube.com/watch?v=jCjaUwEsMdQ&list=PLBxAzSicPZqR0EvK6tyBXZKWrSZUZdMq9&index=4&pp=gAQBiAQB8AUB)
 - [live recording, kicks your ass (On the other hand, Camino)](https://www.youtube.com/watch?v=gITMtMwkoJk&list=PLBxAzSicPZqTuiYBTZFtRJ20OX4XQMYGX&index=7&pp=gAQBiAQB8AUB)
@@ -73,9 +78,11 @@ organized vaguely by genre; with sometimes notes on lessons
 
 
 - [Easy Star All-Stars (Lovely Rita, Dub Side)](https://www.youtube.com/watch?v=GdTb9K6EWOI&list=PLBxAzSicPZqTuiYBTZFtRJ20OX4XQMYGX&index=2&pp=gAQBiAQB8AUB)
-- Jimmy Cliff
-- Black Uhuru
-- Desmond Dekker
+- [Jimmy Cliff](https://youtu.be/MrHxhQPOO2c?si=ThDSn12zravDQf_O)
+- [Black Uhuru](https://www.youtube.com/watch?v=Hbp_N8VsFqk&pp=ygUSeW91dGggb2YgZWRsaW5ndG9u)
+- [Desmond Dekker](https://www.youtube.com/watch?v=0wSXTN2EfRo&pp=ygURZGVra2VyIGlzcmFlbGl0ZXM%3D)
+- [General Echo / Arleen](https://youtu.be/7zn3cSCZv8c?si=07HZNO8Nl0PJ6THN)
+- [Peter Tosh](https://www.youtube.com/watch?v=2DMTgTaWGnE&pp=ygUKcGV0ZXIgdG9zaA%3D%3D)
 
 
 ### Jazz / Blues
