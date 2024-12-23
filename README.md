@@ -103,7 +103,8 @@ organized vaguely by genre; with sometimes notes on lessons
 - [Giant Steps](https://www.youtube.com/watch?v=30FTr6G53VU&list=PLBxAzSicPZqTuiYBTZFtRJ20OX4XQMYGX&index=6&pp=gAQBiAQB8AUB)
 - [Horace Silver](https://www.youtube.com/watch?v=NFjmWI-d6d4&list=PLBxAzSicPZqTuiYBTZFtRJ20OX4XQMYGX&index=9&pp=gAQBiAQB8AUB)
 - [Ray Brown](https://www.youtube.com/watch?v=qCFfVYxB3Bs&list=PLBxAzSicPZqTuiYBTZFtRJ20OX4XQMYGX&index=17&pp=gAQBiAQB8AUB)
-
+- [Michel Camino (live On The Other Hand 2019)](https://youtu.be/gITMtMwkoJk?si=jZZd1xCFz9FHvHHn)
+- 
 
 ### Contemporary
 
