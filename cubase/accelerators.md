@@ -112,5 +112,5 @@ finding it in Edit > Key Commands? Maybe check Transport.
 - Mixer fader items
     - Faders up to 12dB: Project > Set up > Fader max
     - Fader micro moves: Hold down shift: Now fader moves are very small
-- Modify channel color: shift + click on the track label; also works in the mix console
+- Modify channel color: shift + click **LEFT SIDE** of track name panel (i.e. in the color); also works in mix console
 - Mixer EQ graphic interactive: click on the thumbnail
