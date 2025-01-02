@@ -17,6 +17,7 @@ finding it in Edit > Key Commands? Maybe check Transport.
 
 ## [Dom Sigalas workflow shortcuts](https://www.youtube.com/watch?v=C67OjuSL90U)
 
+
 - Chopping to quantize value: Scissors > Alt + Click
     - Set quantize to 16 notes with snap activated 
 - J toggles snap on and off
@@ -37,6 +38,57 @@ finding it in Edit > Key Commands? Maybe check Transport.
     - Edit > key commands > select next / previous quantize
 - Cycle through snap types: ctrl + \[ and \]
     - Select previous / next snap type
+
+
+## [More Dom Sigalas tips n trix](https://youtu.be/boyPW1TNWvU?si=DRcnRWoInolWSpSD)
+
+
+- Range selection tool: Selection palette: Far left: Combine with selection (cursor) tool
+    - RST at the upper half of an event / ST at the lower half!
+    - Things to do:
+        - Select a range, then shift-X to turn that into an event (rather than clipping both sides)
+        - Select a range, then alt-drag it
+        - Of course alt-D to duplicate many times
+        - Range select and then delete to clean up a track
+- J disable / enable snap
+    - While doing a range select: Hit ctrl to disable snap in that select
+- Faster and more precise **fade outs**
+    - select the parts of the tracks where you want it, then **a** (same for fade-in)
+- **Global Copy** to make space in the interior of the track for some inserted music
+    - Set Locators
+    - Edit > Range > Global Copy
+    - Move the cursor to where it is to be **inserted**
+    - Edit > Range > Paste Time: Boom!
+- Chop / Stutter Effects with the scissors
+    - Select an event and then select the cut / scissors tool
+    - alt + click on quarter note (say) to split the event on quarter notes; or 8th, 16th
+    - switch to the mute tool and mute certain (now micro) events
+    - or look in Key Commands for the alias for mute / unmute objects; Dom uses the v key
+- Assigning key commands
+    - Examples: Silence (shift + space) and Reverse (ctrl + alt + R)
+- One track: Multiple consecutive events
+    - Select events
+    - Audio > Events to Part (shortcut shift + D)
+    - A part is indicated by a meta-box (logical container) with the events inside like boxcars
+    - Can edit; can reverse with 'Dissolve part'
+- Zooming
+    - Select a focus event > alt + S zooms to this event
+    - Alias alt + z to unzoom
+    - See the Edit > Zoom menu
+    - Zoom out to project scale: shift + F
+- Edit cut head + tail (respective crap at start/end of an event)
+    - select event, cursor locate, alt + \[ for head, alt + \] for tail
+    - (see Key Commands cut head / cut tail)
+- Offline process **Presets**
+    - Say you commonly want to "add chorus delay + reverb to audio events" or some such common task
+    - Audio > Direct Offline Processing > + Plug-in, drag it into the Favorites box
+    - Have that box up; select an event; apply it by clicking the process
+
+
+## [Dom Sigalas MIDI tips](https://youtu.be/hYkjXVW1NTA?si=2yFb92GAiozh64TT)
+
+
+- To do
 
 
  ## [Chris Selim tipsntrix](https://www.youtube.com/watch?v=YfrXbaOa4Uc&list=PLBxAzSicPZqRhiwalnHbmYMAiB1gP8Djm)
