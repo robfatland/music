@@ -15,7 +15,8 @@ finding it in Edit > Key Commands? Maybe check Transport.
 - Loop on range selection: alt-p (event select or range selection tool)
 
 
-## [Dom Sigalas workflow shortcuts](https://www.youtube.com/watch?v=C67OjuSL90U)
+### [Dom Sigalas workflow shortcuts](https://www.youtube.com/watch?v=C67OjuSL90U)
+### [More Dom Sigalas tips n trix](https://youtu.be/boyPW1TNWvU?si=DRcnRWoInolWSpSD)
 
 
 - Chopping to quantize value: Scissors > Alt + Click
@@ -38,11 +39,6 @@ finding it in Edit > Key Commands? Maybe check Transport.
     - Edit > key commands > select next / previous quantize
 - Cycle through snap types: ctrl + \[ and \]
     - Select previous / next snap type
-
-
-## [More Dom Sigalas tips n trix](https://youtu.be/boyPW1TNWvU?si=DRcnRWoInolWSpSD)
-
-
 - Range selection tool: Selection palette: Far left: Combine with selection (cursor) tool
     - RST at the upper half of an event / ST at the lower half!
     - Things to do:
@@ -91,7 +87,8 @@ finding it in Edit > Key Commands? Maybe check Transport.
 - To do
 
 
- ## [Chris Selim tipsntrix](https://www.youtube.com/watch?v=YfrXbaOa4Uc&list=PLBxAzSicPZqRhiwalnHbmYMAiB1gP8Djm)
+### [Chris Selim tipsntrix](https://www.youtube.com/watch?v=YfrXbaOa4Uc&list=PLBxAzSicPZqRhiwalnHbmYMAiB1gP8Djm)
+### [Chris Selim more tips n trix](https://youtu.be/oPH25wPRbXw?si=D5WrLzCfmPM_t5Rz)
 
 
  - Duplicate an audio track with the new version pre-bounced / decoupled from the source
@@ -114,3 +111,7 @@ finding it in Edit > Key Commands? Maybe check Transport.
     - Fader micro moves: Hold down shift: Now fader moves are very small
 - Modify channel color: shift + click **LEFT SIDE** of track name panel (i.e. in the color); also works in mix console
 - Mixer EQ graphic interactive: click on the thumbnail
+- Range selection (2) ctrl + shift select does a global (including hidden?? I hope not!)
+    - See Dom also on range select + select and global copy
+- Cut time / delete time
+- Move waveform l/r inside an audio event: ctrl + alt
