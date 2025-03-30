@@ -7,12 +7,6 @@
 [walking bass](https://www.youtube.com/watch?v=Ojb1xPp68hg)
 
 
-## relocate this link
-
-
-- [special relativity historical perspective](https://youtu.be/qG5PzdbtoQo?si=XRI3d9pgC8q0tLu1)
-
-
 ## tunes and ensembles
 
 
