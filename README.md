@@ -52,7 +52,7 @@ organized vaguely by genre; with sometimes notes on lessons
 - Dan
 - Run DMC / Aerosmith
 - [Police](https://www.youtube.com/watch?v=cPkChi1ckq0&list=PLBxAzSicPZqQecT4S-tvPht8pLNol4XfX&index=5&pp=gAQBiAQB8AUB)
-- [Zappa](https://www.youtube.com/watch?v=nRZpNfC-l54]
+- [Mothers: Fine Girl](https://youtu.be/nRZpNfC-l54?si=r0NNDh57TyQso1Zp)
 - Penguin Cafe Orchestra
 - [King Crimson](https://www.youtube.com/watch?v=LIWRydRgqyA&list=PLBxAzSicPZqRJ4xAzNrBB9tJ5S27ejHpt&index=12&pp=gAQBiAQB8AUB), [Frame By Frame](https://www.youtube.com/watch?v=2HL-gGLu8Jo&list=PLBxAzSicPZqRJ4xAzNrBB9tJ5S27ejHpt&index=13&pp=gAQBiAQB8AUB)
 - [Yes](https://www.youtube.com/watch?v=2mTPwM4nFw0&list=PLBxAzSicPZqRJ4xAzNrBB9tJ5S27ejHpt&index=14&pp=gAQBiAQB8AUB)
